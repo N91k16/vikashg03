@@ -24,3 +24,8 @@ variable "vnet201" {
 variable "nic201" {
   
 }
+
+
+variable "vaukt" {
+  
+}

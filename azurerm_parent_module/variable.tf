@@ -26,6 +26,6 @@ variable "nic201" {
 }
 
 
-variable "vaukt" {
+variable "prod_hcl" {
   
 }
